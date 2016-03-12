@@ -9,6 +9,8 @@ const hbs = require('handlebars');
 const router = require('./routes');  //router
 const register = require('./module/register');  //register
 
+
+
 const server = new Hapi.Server();
 server.bind({
     apiBaseUrl: 'http://localhost:4000/api',
