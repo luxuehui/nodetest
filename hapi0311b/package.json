@@ -1,0 +1,30 @@
+{
+  "name": "hapitest",
+  "version": "1.0.0",
+  "description": "hapijs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/luxuehui/nodeBase.git"
+  },
+  "keywords": [
+    "haipi"
+  ],
+  "author": "luxuehui",
+  "license": "ISC",
+  "dependencies": {
+    "catbox": "^7.1.0",
+    "dindin-api": "^2.0.1",
+    "good": "^6.6.0",
+    "good-console": "^5.3.1",
+    "handlebars": "^4.0.5",
+    "hapi": "^13.0.0",
+    "inert": "^3.2.0",
+    "vision": "^4.0.1",
+    "yar": "^5.0.1"
+  }
+}
